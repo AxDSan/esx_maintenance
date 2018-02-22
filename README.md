@@ -9,3 +9,8 @@ Just go to the config file and set true or false whenever you want to be on Main
 # Whitelisting System Built-in
 
 Allows you to handpick only a few, who will help you while on maintenance mode, if you whitelist them through the config file...
+
+# Credits / Shout outs
+
+- Bluethefurry @ https://github.com/Bluethefurry (For his EasyBlacklist Script).
+- Maxime6678 @ https://forum.fivem.net/t/playerconnecting-event-problem/38975/4?u=0xnop for his Snippets.
