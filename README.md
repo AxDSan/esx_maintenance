@@ -1,8 +1,8 @@
-# esx_maintenance
+# ESX Maintenance
 
-This is your own personal bouncer... When you're working on your server and you want to keep people outside for a while, this is the script for you.
+This is your own personal bouncer for your server... When you're working on your server and you want to keep people outside for a while, this is the script for you.
 
-# Easy Maintenance System
+# Easy Maintenance Configuration
 
 Just go to the config file and set true or false whenever you want to be on Maintenance mode or not...
 
